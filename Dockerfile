@@ -1,4 +1,4 @@
-FROM node:10.4.0
+FROM node:10.23.1
 
 LABEL org.opencontainers.image.source="https://github.com/iainrose/docker-goof"
 
